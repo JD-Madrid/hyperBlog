@@ -19,6 +19,7 @@ body
     font-size: 20px;
     
 }
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -27,8 +28,6 @@ body
     font-size: 0.8em;
     
 }
-
-
 
 #container 
 { 
@@ -44,4 +43,13 @@ body
 {
     padding-top: 2em;
     text-align: left;
+}
+
+footer
+{
+    padding: 0.4cm;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color: grey;
 }
